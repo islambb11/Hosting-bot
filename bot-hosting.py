@@ -39,8 +39,8 @@ from filelock import FileLock
 # ═══════════════════════════════════════════════════════════════
 
 # أمان - إعدادات حساسة
-TOKEN = "7661560318:AAEJoFqAyM8e8gxj4DUb77sbnGXfiQcxQeo"
-OWNER_ID = 6991944640
+TOKEN = "bot token"
+OWNER_ID = id
 ENCRYPTION_KEY = Fernet.generate_key()
 cipher_suite = Fernet(ENCRYPTION_KEY)
 
