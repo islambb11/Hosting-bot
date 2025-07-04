@@ -1,0 +1,7 @@
+pyTelegramBotAPI
+psutil
+cryptography
+schedule
+validators
+filelock
+requests
